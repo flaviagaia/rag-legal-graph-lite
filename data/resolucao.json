@@ -1,0 +1,28 @@
+{
+  "fonte": "Resolução fictícia do Programa Alfa. Cada dispositivo é um nó com hierarquia (parent), ordem no documento (ordem), vigência e remissões no texto (art. N). Nenhuma relação com dados reais.",
+  "nodes": [
+    {"id": "art3", "rotulo": "Art. 3º", "parent": null, "ordem": 0,
+     "texto": "Sao requisitos para adesao ao Programa Alfa os previstos nos incisos seguintes.",
+     "vigente": true, "inicio": 2024, "fim": null, "revogado_por": null},
+    {"id": "art3_i", "rotulo": "Art. 3º, I", "parent": "art3", "ordem": 1,
+     "texto": "I - ter no minimo cinquenta alunos matriculados;",
+     "vigente": true, "inicio": 2024, "fim": null, "revogado_por": null},
+    {"id": "art3_ii", "rotulo": "Art. 3º, II", "parent": "art3", "ordem": 2,
+     "texto": "II - indicar gestor responsavel, na forma do art. 8.",
+     "vigente": true, "inicio": 2024, "fim": null, "revogado_por": null},
+
+    {"id": "art5_old", "rotulo": "Art. 5º (Resolução 10/2022)", "parent": null, "ordem": 3,
+     "texto": "O valor do repasse por aluno do Programa Alfa e de R$ 80,00.",
+     "vigente": false, "inicio": 2022, "fim": 2024, "revogado_por": "Resolução 25/2024"},
+    {"id": "art5_new", "rotulo": "Art. 5º (Resolução 25/2024)", "parent": null, "ordem": 4,
+     "texto": "O novo valor do repasse por aluno do Programa Alfa e de R$ 100,00.",
+     "vigente": true, "inicio": 2024, "fim": null, "revogado_por": null},
+
+    {"id": "art8", "rotulo": "Art. 8º", "parent": null, "ordem": 5,
+     "texto": "O gestor responsavel e indicado pelo prefeito e registrado no sistema oficial.",
+     "vigente": true, "inicio": 2024, "fim": null, "revogado_por": null},
+    {"id": "art9", "rotulo": "Art. 9º", "parent": null, "ordem": 6,
+     "texto": "O cronograma de repasse preve parcelas em marco e agosto.",
+     "vigente": true, "inicio": 2024, "fim": null, "revogado_por": null}
+  ]
+}
